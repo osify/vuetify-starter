@@ -22,8 +22,8 @@
           </v-card-title>
 
           <v-card-text>
-            <p>This is a special training by POSCAR (Cambodia)!</p>
-            <p>If you want to join, please contact to DEA.</p>
+            <p>This is a special training by MT!</p>
+            <p>If you want to join, please contact to MT.</p>
           </v-card-text>
 
           <v-divider></v-divider>

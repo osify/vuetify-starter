@@ -17,7 +17,7 @@
         xs12
         mb-5
       >
-        <h2 class="headline font-weight-bold mb-3" v-if="isValid && candidate.name">Welcome {{candidate.name}}</h2>
+        <h2 class="headline font-weight-bold mb-3" v-if="isValid && candidate.name">Hello {{candidate.name}}!</h2>
         <h3 v-if="isValid">Position: {{candidate.position}}</h3>
         Enjoy our contents!
       </v-flex>
